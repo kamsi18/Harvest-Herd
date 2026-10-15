@@ -59,7 +59,7 @@ The USD rate is a fixed constant, not a live exchange rate.
 The "Pay with" selection does not affect totals, and crypto prices are not converted.
 The basket resets on page refresh (no persistence).
 Language support covers only the headings and nav links, not product names or descriptions.
-Minor content issues: "plaintain" in the catalogue should be "plantain", and USDT appears twice in the payment dropdown.
+
 Tech
 
 HTML5, CSS3 (grid, flexbox, custom properties) and vanilla JavaScript, using the native <dialog> element for the basket.
