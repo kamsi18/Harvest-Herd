@@ -15,7 +15,7 @@ Getting started
 
 No installation needed.
 
-Download farm-market.html.
+Download index.html.
 Open it in any modern browser.
 
 To serve it locally instead:
